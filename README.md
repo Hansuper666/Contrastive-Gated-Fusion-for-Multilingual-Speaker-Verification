@@ -237,7 +237,8 @@ Results on MAV-Celeb v3 English-German setting:
 |-----------|-------|---------|
 | English | 30.6% | 34.7% |
 | German | 37.1% | 30.4% |
-| **Overall** | | **33.2%** |
+
+**Overall EER: 33.2%**
 
 Key observations:
 - For English, the heard condition outperforms unheard
